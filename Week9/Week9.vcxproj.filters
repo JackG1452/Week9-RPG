@@ -27,6 +27,12 @@
     <ClCompile Include="armour.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="gameCharacter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cleric.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="item.h">
@@ -36,6 +42,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="armour.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gameCharacter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cleric.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
